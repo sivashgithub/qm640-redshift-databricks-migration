@@ -1,0 +1,1 @@
+run_id,question,platform,condition,query_id,elapsed_seconds,rows_processed,bytes_moved,compute_config,runtime_version,cache_state,result_equivalent,timestamp

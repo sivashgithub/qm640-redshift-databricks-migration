@@ -1,0 +1,3 @@
+-- Freeze equivalent logical queries in both Redshift and Databricks.
+-- Query patterns: filtered aggregation, group-by, time window, join, Gold summary.
+-- Validate result equivalence before comparing elapsed time.
